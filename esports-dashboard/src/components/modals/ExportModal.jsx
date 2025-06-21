@@ -63,7 +63,7 @@ const ExportModal = ({ isOpen, onClose, dataTypeToExport = "Report" }) => {
   }, [selectedColumns]);
 
 
-  const handleStartExport = ()_ => {
+  const handleStartExport = () => {
     setIsExporting(true);
     setProgress(0);
     setEstimatedSize('');
