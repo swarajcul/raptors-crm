@@ -1,1 +1,0 @@
-// teamRoutes.js placeholder
